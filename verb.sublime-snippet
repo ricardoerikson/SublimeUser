@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\Verb+${1:this}+
+]]></content>
+    <tabTrigger>verb</tabTrigger>
+    <description>Verbatim inline entry</description>
+    <scope>text.tex.latex</scope>
+</snippet>

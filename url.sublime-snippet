@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\url{http://${1:url}}
+]]></content>
+    <tabTrigger>url</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>Url command</description>
+</snippet>

@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"Dictionaries",
+		"Emmet",
+		"FileSystem Autocompletion",
+		"Git",
+		"GitGutter",
+		"GitStatus",
+		"GitSyntaxes",
+		"LaTeX Word Count",
+		"LaTeXing",
+		"LaTeXTab",
+		"Package Control",
+		"Quick File Creator",
+		"SublimeBlockCursor",
+		"SublimeLinter",
+		"Theme - Centurion",
+		"Theme - Cobalt2",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TodoReview",
+		"Writing Color Scheme"
+	]
+}

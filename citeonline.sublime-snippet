@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\citeonline{${1:key}}
+]]></content>
+    <tabTrigger>citeonline</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>Citeonline command</description>
+</snippet>

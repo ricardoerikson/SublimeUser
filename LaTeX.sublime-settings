@@ -1,0 +1,33 @@
+{
+	"auto_complete":true,
+    "auto_complete_selector": "- comment",
+    "auto_complete_commit_on_tab": false,
+    "spell_check": true,
+    "highlight_line":true,
+
+    // Add this file to Packages/User/ folder for effect
+
+    "color_scheme": "Packages/Writing Color Scheme/Writing Color Scheme Light.tmTheme",
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": false,
+    "auto_match_enabled": true,
+
+    // Layout
+    // "draw_centered": true,
+    "word_wrap": true,
+    "wrap_width": 86,
+    "rulers": [],
+
+    // Line
+    "line_numbers": true,
+    // "highlight_line": false,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+
+    // Caret
+    "caret_style": "solid", // blink with "smooth"
+    "caret_extra_width": 1,
+    "caret_extra_top": 3,
+    "caret_extra_bottom": 1
+}
