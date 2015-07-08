@@ -2,7 +2,7 @@
 
 Sublime standard packages for web development.
 
-## Instalation
+## Installation
 
 Install the *Package Control* in your Sublime Text. Follow the instructions in: [Installation - Package Control](https://packagecontrol.io/installation)
 
