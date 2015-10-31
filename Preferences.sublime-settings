@@ -22,9 +22,5 @@
 	"line_padding_top": 2,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false,
-	"theme": "Soda Light.sublime-theme",
-	// "soda_classic_tabs": true,
-	"soda_folder_icons": true
-
+	"trim_trailing_white_space_on_save": false
 }
