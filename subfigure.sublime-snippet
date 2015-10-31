@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+\begin{subfigure}[b]{${1:width}}
+    \includegraphics[${2:width}]{${3:figure}}
+    \caption{${4:caption}}
+    \label{subfig_${5:label}}
+\end{subfigure}${6}
+]]></content>
+    <description>Subfigure environment</description>
+    <tabTrigger>subfigure</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

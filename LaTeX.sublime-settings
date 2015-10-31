@@ -16,7 +16,7 @@
     // Layout
     // "draw_centered": true,
     "word_wrap": true,
-    "wrap_width": 86,
+    // "wrap_width": 80,
     "rulers": [],
 
     // Line
@@ -29,5 +29,11 @@
     "caret_style": "solid", // blink with "smooth"
     "caret_extra_width": 1,
     "caret_extra_top": 3,
-    "caret_extra_bottom": 1
+    "caret_extra_bottom": 1,
+
+    "bibsonomy": true,
+    "bibsonomy_username": "",
+    "bibsonomy_apikey": "",
+    "bibsonomy_internal_cite_key": true,
+    "bibsonomy_cite_key_pattern": "{Author}{Year}{Title}"
 }

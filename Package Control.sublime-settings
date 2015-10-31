@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -15,6 +16,7 @@
 		"GitGutter",
 		"GitStatus",
 		"GitSyntaxes",
+		"JSON Reindent",
 		"LaTeX Word Count",
 		"LaTeXing",
 		"LaTeXTab",
@@ -26,6 +28,7 @@
 		"Theme - Centurion",
 		"Theme - Cobalt2",
 		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
 		"Theme - Spacegray",
 		"TodoReview",
 		"Writing Color Scheme"
