@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"LaTeXing"
 	],
 	"installed_packages":
 	[
@@ -10,6 +9,9 @@
 		"All Autocomplete",
 		"AngularJS",
 		"Bootstrap 3 Snippets",
+		"Coffee Formatter",
+		"CoffeeCompile",
+		"CoffeeScript",
 		"CSS Format",
 		"Dictionaries",
 		"Emmet",
