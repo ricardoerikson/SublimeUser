@@ -3,6 +3,7 @@
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_selector": "- comment",
 	"auto_match_enabled": true,
+	"auto_refresh_rate": 1,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 3,
@@ -12,10 +13,14 @@
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "Menlo",
 	"font_size": 19.0,
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"LaTeXing",
 		"Vintage"
 	],
 	"line_numbers": true,

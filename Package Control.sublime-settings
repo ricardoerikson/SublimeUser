@@ -2,17 +2,21 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"LaTeXing"
 	],
 	"installed_packages":
 	[
 		"Alignment",
+		"AlignTab",
 		"All Autocomplete",
 		"AngularJS",
 		"AppendSemiColon",
 		"Bootstrap 3 Snippets",
+		"CodeFormatter",
 		"Coffee Formatter",
 		"CoffeeCompile",
 		"CoffeeScript",
+		"Color Highlighter",
 		"CSS Format",
 		"Dictionaries",
 		"DocBlockr",
@@ -31,6 +35,7 @@
 		"Quick File Creator",
 		"QuickThemes",
 		"SublimeBlockCursor",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SVG Icons",
 		"Theme - Argonaut",
