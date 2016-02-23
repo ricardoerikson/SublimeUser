@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"LaTeXing"
 	],
 	"installed_packages":
 	[
@@ -27,6 +26,7 @@
 		"GitGutter",
 		"GitStatus",
 		"GitSyntaxes",
+		"HTMLBeautify",
 		"JSON Reindent",
 		"LaTeX Word Count",
 		"LaTeXing",
