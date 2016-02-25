@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+->
+]]></content>
+    <description>Object operator (arrow)</description>
+    <tabTrigger>.</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

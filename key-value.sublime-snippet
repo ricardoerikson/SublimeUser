@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+"${1:key}" => "${2:value}"${3:,
+}
+]]></content>
+    <tabTrigger>kv</tabTrigger>
+    <description>"Key" => Value</description>
+    <scope>source.php</scope>
+</snippet>

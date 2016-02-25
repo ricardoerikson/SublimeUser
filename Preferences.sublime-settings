@@ -12,11 +12,12 @@
 	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Dictionaries/Portuguese (Brazilian).dic",
-	"font_size": 16.0,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"LaTeXing",
 		"Vintage"
 	],
 	"line_numbers": true,
