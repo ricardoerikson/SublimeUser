@@ -1,14 +1,10 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"Alignment",
 		"AlignTab",
 		"All Autocomplete",
-		"AngularJS",
 		"AppendSemiColon",
 		"Bootstrap 3 Snippets",
 		"CodeFormatter",
@@ -27,6 +23,8 @@
 		"GitStatus",
 		"GitSyntaxes",
 		"HTMLBeautify",
+		"Indent and braces",
+		"JSHint Gutter",
 		"JSON Reindent",
 		"LaTeX Word Count",
 		"LaTeXing",
@@ -36,6 +34,7 @@
 		"Package Control",
 		"Quick File Creator",
 		"QuickThemes",
+		"SideBarEnhancements",
 		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -51,6 +50,7 @@
 		"Theme - Nexus",
 		"Theme - Spacegray",
 		"TodoReview",
+		"Wombat Theme",
 		"Writing Color Scheme"
 	]
 }
