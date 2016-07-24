@@ -1,5 +1,8 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -30,6 +33,7 @@
 		"LaTeXing",
 		"LaTeXTab",
 		"Markdown Preview",
+		"Mocha Snippets",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Quick File Creator",
