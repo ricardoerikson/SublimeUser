@@ -2,5 +2,8 @@
 { "keys": ["super+v"], "command": "paste_and_indent" },
 { "keys": ["super+shift+v"], "command": "paste" } ,
 // { "keys": ["super+shift+f"], "command": "reindent" },
-{ "keys": ["super+shift+/"], "command": "toggle_comment", "args": { "block": "true" } }
+{ "keys": ["super+shift+/"], "command": "toggle_comment", "args": { "block": "true" } },
+{ "keys": ["ctrl+i"], "command": "indent_and_braces" }
+
+
 ]
