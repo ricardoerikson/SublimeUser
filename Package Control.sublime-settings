@@ -5,10 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Agola Color Schemes",
 		"Alignment",
 		"AlignTab",
 		"All Autocomplete",
+		"AppendComma",
 		"AppendSemiColon",
+		"Babel",
 		"Bootstrap 3 Snippets",
 		"CodeFormatter",
 		"CoffeeCompile",
@@ -34,8 +37,8 @@
 		"Mocha Snippets",
 		"Oceanic Next Color Scheme",
 		"Package Control",
+		"Perv - Color Scheme",
 		"Quick File Creator",
-		"QuickThemes",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -51,6 +54,7 @@
 		"Theme - Nexus",
 		"Theme - Spacegray",
 		"TodoReview",
+		"Trailing Punctuation",
 		"Wombat Theme",
 		"Writing Color Scheme"
 	]
