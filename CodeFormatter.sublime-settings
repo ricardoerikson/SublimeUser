@@ -1,0 +1,7 @@
+{
+    "codeformatter_js_options": {
+        "syntaxes": "javascript,json",
+        "preserve_newlines": true,
+        "wrap_line_length": 100
+    }
+}

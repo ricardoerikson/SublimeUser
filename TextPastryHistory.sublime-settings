@@ -1,0 +1,179 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(1,3)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(1,3)"
+			},
+			"key": "b55e804e6bd4200b209d716521efa126",
+			"label": "\\i(1,3)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "3"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 3"
+			},
+			"key": "130a99253cb9a923496493001492cc34",
+			"label": "range 1 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "5"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 5"
+			},
+			"key": "ad20054fd028e33902212efb1921f77e",
+			"label": "range 1 5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "range a f",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "range a f"
+			},
+			"key": "7370f8a1def67ba860bb18133f4bb169",
+			"label": "range a f"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "4",
+					"stop": "9"
+				},
+				"command": "text_pastry_range",
+				"text": "range 4 9"
+			},
+			"key": "17cc131eaf126239cc1cd5566b7cc568",
+			"label": "range 4 9"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "6 8"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter 6 8"
+			},
+			"key": "c02f8be1e7fb9c98a56c78cab8206ce7",
+			"label": "filter 6 8"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(3,9)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(3,9)"
+			},
+			"key": "4a584bbc1d982b09605e6c08f59f4bbb",
+			"label": "\\i(3,9)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "reduce ",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "reduce "
+			},
+			"key": "01dfc2c37e60dededaa543d352d5c061",
+			"label": "reduce "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "asdfa",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "asdfa"
+			},
+			"key": "aa41efe0a1b3eeb9bf303e4561ff8392",
+			"label": "asdfa"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "INPUT SELECT TEXTAREA DIV P A",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "INPUT SELECT TEXTAREA DIV P A"
+			},
+			"key": "60346ba0a98349b1a8fa60554faffaf4",
+			"label": "INPUT SELECT TEXTAREA DIV P A"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p"
+			},
+			"key": "ceb8141b2b1d05fb9539bc1381b58745",
+			"label": "\\p"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "1"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i"
+	}
+}
