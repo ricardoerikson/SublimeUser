@@ -8,3 +8,4 @@ SublimeLinter
 *.merged-ca-bundle
 *.user-ca-bundle
 Color Highlighter
+oscrypto-ca-bundle.crt
