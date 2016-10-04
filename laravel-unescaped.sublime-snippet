@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! ${1} !!}
+]]></content>
+    <description>Laravel's Blade Unescaped</description>
+    <tabTrigger>unescaped</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

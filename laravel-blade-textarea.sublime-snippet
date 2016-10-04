@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{{-- ${1/(.+)/\u$1/g} - Form Input --}}
+<div class="form-group {{ $errors->has('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}') ? 'has-error' : '' }}">
+    {!! Form::label('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}', '${1}:', ['class' => 'control-label']) !!}
+    {!! Form::textarea('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}', null, ['class' => 'form-control']) !!}
+</div>]]></content>
+    <description>Laravel's Blade Textarea (With Bootstrap)</description>
+    <tabTrigger>blade-textarea</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

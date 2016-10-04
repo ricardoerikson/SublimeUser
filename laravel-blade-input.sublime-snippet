@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+{{-- ${1/(.+)/\u$1/g} - Form Input --}}
+<div class="form-group {{ $errors->has('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}') ? 'has-error' : '' }}">
+    {!! Form::label('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}', '${1}:', ['class' => 'control-label']) !!}
+    {!! Form::input('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}', null, ['class' => 'form-control']) !!}
+    @foreach ($errors->get('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}') as $error)
+        <span class="help-block">{{$error}}</span>
+    @endforeach
+</div>]]></content>
+    <description>Laravel's Blade Input (With Bootstrap)</description>
+    <tabTrigger>blade-input</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

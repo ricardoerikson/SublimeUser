@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::open() !!}
+
+{!! Form::close() !!}
+]]></content>
+    <tabTrigger>laravel-form</tabTrigger>
+    <description>Laravel Form</description>
+    <scope>text.blade</scope>
+</snippet>

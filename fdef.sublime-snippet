@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+/* ### Functions definition ### */
+]]></content>
+    <description>Functions definition comment</description>
+    <tabTrigger>fdef</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

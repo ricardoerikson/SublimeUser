@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+{{-- ${1} - Form Checkbox --}}
+<div class="checkbox">
+    <label>
+        {!! Form::checkbox('${1/(\w)|( )/(?1\L$1:)(?2_:)/g}', '${2:Value}') !!}
+        ${3:Checkbox label}
+    </label>
+</div>]]></content>
+    <description>Laravel's Blade Checkbox (With Bootstrap)</description>
+    <tabTrigger>blade-checkbox</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>
