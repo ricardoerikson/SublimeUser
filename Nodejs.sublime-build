@@ -1,4 +1,4 @@
 {
-    "cmd": [ "/usr/local/bin/node", "--harmony", "$file" ],
+    "cmd": [ "/usr/local/bin/node", "--harmony", "$file", "--color", "--tty"],
     "selector": "source.js"
 }
